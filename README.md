@@ -4,6 +4,9 @@
 
 - [WebGL Experience](https://mtoutside.github.io/webgl-kvlt/)
 - [React Weather App](http://react-weather-apps.vercel.app/)
+
+<base target="_Blank">
+
 <!--
 **mtoutside/mtoutside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
